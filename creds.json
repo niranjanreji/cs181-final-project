@@ -1,0 +1,7 @@
+{
+  "sqlite": {
+    "dbdir": "f1data",
+    "database": "f1data",
+    "scheme": "sqlite"
+  }
+}
